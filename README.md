@@ -9,5 +9,5 @@ A simple app CRUD built with ReactJS, Redux and Firebase
 ## Technologies
 - [ReactJS](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
-- [Ant](https://ant.design/)
 - [Firebase](https://console.firebase.google.com/u/1/)
+- [Ant](https://ant.design/)
