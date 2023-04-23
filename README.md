@@ -4,7 +4,7 @@ reactjs-redux-firebase-example
 <p align="center">
 ReactJS, Redux, Firebase, Ant
 </p>
-A simple app CRUD built with ReactJS, Redux and Firebase
+A simple CRUD application built with ReactJS, Redux and Firebase
 
 ## Technologies
 - [ReactJS](https://reactjs.org/)
